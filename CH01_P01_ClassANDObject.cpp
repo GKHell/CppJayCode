@@ -23,7 +23,6 @@ int main()
 	cin>>s.name;
 	 
 	 
-	 
 	cout<<"rollno : "<<s.rollno<<"\t name : "<<s.name<<endl;
 	 
 
