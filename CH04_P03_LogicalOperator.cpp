@@ -5,20 +5,34 @@ using namespace std;
 int main()
 {
 
-	char ch;
-	cout<<"Enter the character : ";
-	cin>>ch;
-	
-	if((ch>='A' && ch<='Z') || (ch>='a' && ch<='z'))
-	{
-		cout<<"Entered '"<<ch<<"' is alphabet.";
-	} 
-	else if(ch>='0'  && ch<='9')
-	{
-		cout<<"Entered '"<<ch<<"' is digit.";
-	}	
-	else
-	{
-		cout<<"Entered '"<<ch<<"' is special symbols.";
-	}
+	 
+	 if(0 && 1)
+	 {
+	 	cout<<"AND : Hello there 1...."<<endl;
+	 } 
+	 else
+	 {
+	 	cout<<"AND : Hello there 2...."<<endl;
+	 }
+
+	 cout<<" ---------------------\n";
+
+	 if(0 || 1)
+	 {
+	 	cout<<"OR : Hello there 1...."<<endl;
+	 } 
+	 else
+	 {
+	 	cout<<"OR : Hello there 2...."<<endl;
+	 }
+
+	 cout<<" ---------------------\n";
+	 if(!( (!!1) && 10) )
+	 {
+	 	cout<<"NOT : TRue"<<endl;
+	 }
+	 else
+	 {
+	 	cout<<"NOT : False"<<endl;
+	 }
 }
