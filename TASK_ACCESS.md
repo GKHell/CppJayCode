@@ -3,6 +3,6 @@
 
 ` student[rollno,name,bookId,phoneNo] `
 
-` book [bookId,edition,cost,authorId] `
+` book [bookId,BookName,edition,cost,authorId] `
 
 ` Author [authorId,authorName,bookId] `
