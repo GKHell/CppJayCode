@@ -22,7 +22,7 @@ int main()
 		{
 			for(k=0;k<o;k++)
 			{
-				a[i][j][k] = ++counter;
+				a[i][j][k] = ++counter; 
 				// cin>>a[i][j][k];
 			}
 		}
@@ -38,8 +38,8 @@ int main()
 			{
 				cout<<"\t"<<a[i][j][k];
 			}
-			cout<<"\n";
+			cout<<"\n"; // to separate the row
 		}
-		cout<<"----------------------\n";
+		cout<<"----------------------\n"; // to separate the matrix
 	}
 }
