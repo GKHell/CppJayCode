@@ -17,6 +17,8 @@
 		compare max with all elements
 		display max 
 	```
+3. write a program which display the all ascii character of given array.
+
 	```html
 		google the task & find the solutions , Dont copy & paste the code see the logic behind the code.
 	```
