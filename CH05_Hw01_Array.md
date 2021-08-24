@@ -15,5 +15,5 @@
 		take values from user
 		use max = a[0]
 		compare max with all elements
-		<p style='color:red;'>display max</p> 
+		@@ display max 
 	```
