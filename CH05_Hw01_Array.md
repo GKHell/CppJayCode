@@ -33,5 +33,5 @@
 	```
 
 	```html
-		google the task & find the solutions , Dont copy & paste the code see the logic behind the code.
+		- google the task & find the solutions , Dont copy & paste the code see the logic behind the code.
 	```
