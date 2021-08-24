@@ -18,5 +18,5 @@
 		display max 
 	```
 	```html
-		<p style='color:red;'>Hello world</p>
+		google the task & find the solutions , Dont copy & paste the code see the logic behind the code.
 	```
