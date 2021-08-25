@@ -17,7 +17,7 @@ class Book{
 		// private
 		string name;
 		double price;
-
+		
 	public:
 		void getData() //method 1
 		{
