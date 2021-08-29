@@ -10,6 +10,7 @@
 		class B:public A{
 				//code
 		};
+		
 	```
 	```cpp
 		int main()
