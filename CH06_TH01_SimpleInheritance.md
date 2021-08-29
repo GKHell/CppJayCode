@@ -1,5 +1,15 @@
 
 | simple inheritance
+
 	```language
-			#A -> B
+			`A -> B`
+	```
+
+	```cpp
+		A{
+			show()
+			{
+				cout<<"Hello"
+			}
+		}
 	```
