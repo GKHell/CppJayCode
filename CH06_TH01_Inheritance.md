@@ -10,7 +10,7 @@
 		class B:public A{
 				//code
 		};
-		
+
 	```
 	```cpp
 		int main()
@@ -30,8 +30,8 @@
 		class C:public B{
 			//code
 		};
-		```
-		```cpp
+	```
+	```cpp
 		int main()
 		{
 			C object;
