@@ -1,3 +1,5 @@
+> creating object
+## ClassName objectName;
 
 | Inheritance
 
