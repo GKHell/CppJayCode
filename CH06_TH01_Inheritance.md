@@ -1,7 +1,7 @@
 > creating object
 ## ClassName objectName;
 
-| Inheritance
+> Inheritance
 
 1.	single inheritance
 	```cpp
