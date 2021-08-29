@@ -1,5 +1,5 @@
 
 | simple inheritance
 	```language
-			# A -> B
+			#A -> B
 	```
