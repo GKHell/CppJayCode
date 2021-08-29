@@ -1,6 +1,6 @@
 
 | simple inheritance
 	```cpp
-	  A -> B
+		A -> B
 	
 	```
