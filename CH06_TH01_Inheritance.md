@@ -1,7 +1,7 @@
 > creating object
 ## ClassName objectName;
 
-> # **Inheritance**
+> # *Inheritance*
 
 1.	single inheritance
 	```cpp
@@ -41,8 +41,8 @@
 	```
 3. multiple inheritance
 	```cpp
-		// A-> C
-		// B-> C
+			// A-> C
+			// B-> C
 		class A{
 			//code
 		};
