@@ -9,4 +9,4 @@
 > 
 | Polymorphirm
 
-1.	write a program which shows compile time poly
+1.	write a program which shows compile time polymorphism example with variants of `sum` till 4 parameters.
