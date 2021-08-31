@@ -1,21 +1,19 @@
-
+// with solution of diamond problem ...
 #include<iostream>
 using namespace std;
 class A{
-
 	public:
 		A(){	cout<<"\tClass A\t"<<this<<endl;	}	
-
 };
-class B: public A{
+class B: virtual public A{
 	public:
 		B(){	cout<<"\t\tClass B\t"<<this<<endl;	}
 };
-class D: public B{
+class D: virtual public B{
 	public:
 		D(){	cout<<"Class D\t"<<this<<endl;	}
 };
-class C: public B{
+class C: virtual public B{
 	public:
 		C(){	cout<<"Class C\t"<<this<<endl;	}
 };
@@ -23,11 +21,11 @@ class E: public D{
 	public:
 		E(){	cout<<"Class E\t"<<this<<endl;	}
 };
-class F: public C{
+class F: virtual public C{
 	public:
 		F(){	cout<<"Class F\t"<<this<<endl;	}
 };
-class G: public C{
+class G: virtual public C{
 	public:
 		G(){	cout<<"Class G\t"<<this<<endl;	}
 };
