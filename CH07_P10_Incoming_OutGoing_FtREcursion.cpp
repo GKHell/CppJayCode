@@ -5,9 +5,9 @@ void display(int i=1)
 {
 	if(i>10)
 		return;
-	cout<<"\nincoming :"<<i;
+	cout<<"\n\u2714 incoming :"<<i;
 	display(i+1);
-	cout<<"\n\t outgoing "<<i;
+	cout<<"\n\t \u2717 outgoing "<<i;
 }
 int main()
 {
