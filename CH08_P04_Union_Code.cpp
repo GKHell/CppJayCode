@@ -1,16 +1,16 @@
 
 #include <iostream>
 using namespace std;
-struct Student{
-	int rollno;
-	char div;
+union Student{
+	int rollno; // size : 4 byte
+	char div; // 1 byte
 };
 int main()
 {
-	struct Student s;
+	union Student s;
 
 	s.rollno = 59;
-	s.div= 'A';
-
+	s.div= 'C';
+	s.rollno = 65.7; //efects on div
 	cout<<"rollno : "<<s.rollno<<"\t Div : "<<s.div;
 }
