@@ -17,4 +17,4 @@
 
 > # TASK : practical
 
-| write a program which calculate the present ammount of zeros, positive & ne
+| write a program which calculate the present amount of zeros, positive & ne
