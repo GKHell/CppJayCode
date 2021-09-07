@@ -12,3 +12,9 @@
 
 	\*p = a or
     \*p = &a[0]
+
+// P+23 // P++
+
+> # TASK : practical
+
+| write a program which calculate the present ammount of zeros, positive & ne
