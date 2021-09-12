@@ -17,5 +17,5 @@ void insert(me a,me b,string name)
 }
 int main()
 {
-	insert<int ,30>(10,20,"jay");
+	insert<int ,30>(10,20,"GK");
 }
