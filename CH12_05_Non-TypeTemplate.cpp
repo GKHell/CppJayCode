@@ -3,12 +3,13 @@
 #include<fstream>
 #include<iostream>
 using namespace std;
-template <class me>
+template <class me,int rollno>
 void insert(me a,me b,string name)
 {
 	ofstream file;
 	file.open("./UnixCMDs/CH12_tmp_"+name+".txt");
 
+	file<<"name : "<<name<<","<<rollno<<endl;
 	file<<a<<" + "<<b<<" = "<<a+b<<endl;
 	file<<a<<" * "<<b<<" = "<<a*b<<endl;
 	file<<a<<" / "<<b<<" = "<<a/b<<endl;
@@ -16,5 +17,5 @@ void insert(me a,me b,string name)
 }
 int main()
 {
-	insert(10,20,"jay");
+	insert<int ,30>(10,20,"jay");
 }
