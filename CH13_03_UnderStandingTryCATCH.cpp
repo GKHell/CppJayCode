@@ -7,7 +7,7 @@ int main()
 
 	try{
 
-		throw 'A';
+		thrown 'A';
 		// throw 10.3f;
 		// throw 10;
 	}
