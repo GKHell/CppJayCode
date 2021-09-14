@@ -14,4 +14,7 @@
 5. write a program to store all data of `structure` into a `file`.
 
 
-6. write a recursion function to print all odd numbers of the given range.  
+6. write a recursion function to print all odd numbers of the given range.
+
+7. create a header file to perform all arithmetic operation by using switch to make more realist.
+
