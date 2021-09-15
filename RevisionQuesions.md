@@ -16,5 +16,5 @@
 
 6. write a recursion function to print all odd numbers of the given range.
 
-7. create a header file to perform all arithmetic operation by using switch to make more realist.
+7. create a header file to perform all arithmetic operations by using switch to make more realist.
 
