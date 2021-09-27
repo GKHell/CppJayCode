@@ -17,12 +17,14 @@
 
 7. create a header file to perform all ``arithmetic operations`` by using switch to make more realist.
     ```
-      like user can call function like : operation(a,'+',b) for sum
+      user can call function like : operation(a,'+',b) for sum
     ```
 
 8.   write a program to sort words which are given in `.txt` file.
 9.   write a program to find the roots of the polynomial x<sup>2</sup> + 2x – 15
 10.  write a program to smallest character of given string.
+
     ``
       like in "apple" , 'a' is smallest character.
     ``
+## ALL THE BEST
